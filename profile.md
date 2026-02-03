@@ -11,3 +11,6 @@ CHETHAN
 - Backend fundamentals
 ## Fun Fact
 I enjoy learning while listening to music ��
+## Hobbies
+- Coding small projects
+- Reading tech blogs
